@@ -10,7 +10,7 @@ When searching with the Wikipedia button:
 
 ![2](https://user-images.githubusercontent.com/24724665/35693925-96afed72-0777-11e8-9b58-1313fa651b01.PNG)
 
-It'll return a the link and summary of the wikipedia page.
+It'll return the link and summary of the wikipedia page.
 
 When searching with the Definition button:
 
