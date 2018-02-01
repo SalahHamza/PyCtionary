@@ -1,6 +1,6 @@
 # PyCtionary
 
-The program is a dictionary based on [geekpradd](https://github.com/geekpradd)'s [Pydictionary](https://github.com/geekpradd/PyDictionary) and uses [Wikipedia Api](https://pypi.python.org/pypi/wikipedia) with some additional tweaks and a GUI using PyQt4.
+The program is a dictionary desktop application based on [geekpradd](https://github.com/geekpradd)'s [Pydictionary](https://github.com/geekpradd/PyDictionary) and uses [Wikipedia Api](https://pypi.python.org/pypi/wikipedia) with some additional tweaks and a GUI using PyQt4.
 ---
 ### Quick overview
 
