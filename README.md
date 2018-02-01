@@ -16,13 +16,13 @@ When searching with the Definition button:
 
 ![3](https://user-images.githubusercontent.com/24724665/35693926-96d9fb76-0777-11e8-99c3-9c2f708faaac.PNG)
 
-In this case we looked up 'Github' which is not a english word, so it returned the somewhat "best" suggestions.
+In this case we looked up 'Github' which is not an english word, so it returned the somewhat "best" suggestions.
 
 If a suggestion is clicked, it returns its defintion and deletes it from the Suggestion bar:
 
 ![4](https://user-images.githubusercontent.com/24724665/35693927-970fb054-0777-11e8-9b78-e0a8f85902d7.PNG)
 
-In case we look up a term that is may refer to too many subject:
+In case we look up a term that may refer to too many subject:
 
 ![5](https://user-images.githubusercontent.com/24724665/35693928-973d8470-0777-11e8-9f00-db63f610b8a9.PNG)
 
